@@ -1,7 +1,7 @@
-function createCard() {
+function createCard(date, day) {
   return `
     <div class="card">
-      <h2>24/11 <span>quinta</span></h2>
+      <h2>${date} <span>${day}</span></h2>
       <ul>
         <li>
           <img src="./assets/icon-brazil.svg" alt="Bandeira do Brasil" />
@@ -19,8 +19,8 @@ document.querySelector("#app").innerHTML = `
   </header>
 
   <main id="cards">
-    ${createCard()}
-    ${createCard()}
-    ${createCard()}
+    ${createCard("24/11", "quinta")}
+    ${createCard("28/11", "segunda")}
+    ${createCard("02/12", "sexta")}
   </main>
 `
