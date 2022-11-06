@@ -1,6 +1,8 @@
 <h1 align="center"> NLW #10 Copa </h1>
 
-<p align="center">Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.</p>
+<p align="center">
+Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -15,10 +17,8 @@
 
 <br>
 
-![Calendario da copa](assets/preview.jpg)
-
 <p align="center">
-  <img alt="calendario da copa" src="./assets/preview.jpg" width="100%">
+  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave:
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
