@@ -15,6 +15,8 @@
 
 <br>
 
+![Calendario da copa](assets/preview.jpg)
+
 <p align="center">
   <img alt="calendario da copa" src="./assets/preview.jpg" width="100%">
 </p>
